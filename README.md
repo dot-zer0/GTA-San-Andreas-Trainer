@@ -1,7 +1,8 @@
 # GTA-San-Andreas-Trainer
-Simple Trainer for GTA: SA [1.0 VERSION]
+Simple Trainer for GTA: SA
 
 Before you start the trainer, make sure that the game itself is running, otherwise you will get an error
+For the trainer to work, you need the 1.0 version of the game
 
 # Functional
 - GodMode
