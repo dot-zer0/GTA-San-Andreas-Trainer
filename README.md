@@ -15,3 +15,7 @@ For the trainer to work, you need the 1.0 version of the game
 - Free repaint car
 - Painted Over Graffiti [100]
 - Chaos Mode [Enabling a script that is initialized after completing a mission during the storyline]
+
+# Cheat Menu
+
+![alt text](menu.png)
